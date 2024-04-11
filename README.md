@@ -62,7 +62,7 @@
 - **Dashboard interativo com dados públicos a nível Brasil e mundo**, aqui foi feita uma análise com estatística descritiva sobre óbitos, infecções e regiões mais afetadas pela doença, bem como seu impacto econômico do período.
 
 <p align="center">
-  <img alt="BA" width="40%" src="https://raw.githubusercontent.com/pereira-alexandre/Covid-Dashboard/main/img/Resume.gif">
+  <img alt="BA" width="50%" src="https://raw.githubusercontent.com/pereira-alexandre/Covid-Dashboard/main/img/Resume.gif">
 </p>
 
 
