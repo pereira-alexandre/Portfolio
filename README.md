@@ -49,7 +49,7 @@
 
 ### [**Validador De CPF**](https://github.com/pereira-alexandre/cpf-document-validator)
 
-- **Algoritmo, documentando didaticamente com o racional de uma validação de CPF**, no qual teve o foco em instruir futuaras implementações em outras ferramentas ou sistemas complexos.
+- **Algoritmo, documentando didaticamente com o racional de uma validação de CPF**, no qual teve o foco em instruir futuras implementações em outras ferramentas ou sistemas complexos.
 - Implementado em Python no paradigma de Orientação a Objeto para fácil interpretação e refatoração futura.
 - [Acesse o Documento](https://github.com/pereira-alexandre/cpf-document-validator)
 - [Clique aqui para obter mais detalhes do código fonte](https://github.com/pereira-alexandre/cpf-document-validator/blob/main/cpf_validator.py)
