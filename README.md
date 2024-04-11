@@ -45,25 +45,24 @@
 
 
 
-## **Analytics**
+## **Algoritmos**
 
 ### [**Validador De CPF**](https://github.com/pereira-alexandre/cpf-document-validator)
 
-- **Algoritmo em Idioma Inglês Documentando didaticamente passo a passo o racional de uma validação de CPF**, no qual teve o foco em instruir futuaras implementações em outras ferramentas ou sistemas complexos.
+- **Algoritmo, documentando didaticamente com o racional de uma validação de CPF**, no qual teve o foco em instruir futuaras implementações em outras ferramentas ou sistemas complexos.
 - Implementado em Python no paradigma de Orientação a Objeto para fácil interpretação e refatoração futura.
 - [Acesse o Documento](https://github.com/pereira-alexandre/cpf-document-validator)
 - [Clique aqui para obter mais detalhes do código fonte](https://github.com/pereira-alexandre/cpf-document-validator/blob/main/cpf_validator.py)
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG0xM3pzNTlsbTdqazJkdTBiZGpwcGNvdXNyaGNiaWdrcnl5cjNnNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cNy35I5u02gljOO2Qw/giphy.gif" width="670" height="670"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG0xM3pzNTlsbTdqazJkdTBiZGpwcGNvdXNyaGNiaWdrcnl5cjNnNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cNy35I5u02gljOO2Qw/giphy.gif" width="600" height="530"/>
 
+## **BI**
 
-## **Python:**
+### [**Análise de COVID19**](https://github.com/pereira-alexandre/Covid-Dashboard)
+- **Dashboard interativo com dados públicos a nível Brasil e mundo**, aqui foi feita uma análise com estatística descritiva sobre óbitos, infecções e regiões mais afetadas pela doença, bem como seu impacto econômico do período.
 
-### [**Calculadora - Programação Orientada a Objetos**](https://github.com/pereira-alexandre/Calculator-OOP)
-- Construi uma calculadora padrão, em paradigma de Orientação a Objeto, para fins de excercício da boa prática do Clean Code, visando fácil manutenção e legibilidade.
-- Separei uma Classe chamda "Calculator" para conseguir identificar os componentes (botões, janela, operadores, numeros).
-<p align="left">
-  <img alt="Calculadora" width="25%" src="assets\img\frontCalculator.png">
-  
-  - [Clique aqui para obter mais detalhes do projeto](https://github.com/pereira-alexandre/Calculator-OOP)
+<p align="center">
+  <img alt="BA" width="40%" src="https://raw.githubusercontent.com/pereira-alexandre/Covid-Dashboard/main/img/Resume.gif">
+</p>
+
 
