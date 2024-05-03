@@ -18,7 +18,7 @@
 - [Acesse o Notebook](https://github.com/pereira-alexandre/Data-Science-Police-violence/blob/main/Viol%C3%AAncia_policial.ipynb)
 - [Leia a Matéria](https://agenciabrasil.ebc.com.br/internacional/noticia/2021-06/onu-pede-fim-de-impunidade-da-violencia-policial-contra-negros)
 
-<p align="center">
+<p align="left">
   <img alt="BA" width="90%" src="assets\img\Estatisticas.png">
 </p>
 
@@ -61,8 +61,10 @@
 ### [**Análise de COVID19**](https://github.com/pereira-alexandre/Covid-Dashboard)
 - **Dashboard interativo com dados públicos a nível Brasil e mundo**, aqui foi feita uma análise com estatística descritiva sobre óbitos, infecções e regiões mais afetadas pela doença, bem como seu impacto econômico do período.
 
-<p align="center">
+<p align="left">
   <img alt="BA" width="55%" src="https://raw.githubusercontent.com/pereira-alexandre/Covid-Dashboard/main/img/Resume.gif">
 </p>
+
+- [Confira o projeto na íntegra](https://github.com/pereira-alexandre/Covid-Dashboard)
 
 
